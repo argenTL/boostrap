@@ -1,0 +1,409 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    background: url("img/header/Rectangle.png") no-repeat center / cover;
+    color: white;
+}
+header .line{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    left: 0;
+    top: 105px;
+    opacity: 0.5;
+    border-bottom: 1px solid #A1A1A1;
+}
+header .manu ul{
+    list-style: none;
+}
+header .manu ul li{
+    padding: 40px 20px;
+    border-bottom: solid 2px transparent;
+    transition: .3s linear;
+}
+header .manu ul li:hover{
+    border-bottom: solid 2px white;
+}
+header .manu ul li a{
+    text-decoration: none;
+    color: white;
+}
+header .title{
+    padding: 20% 0 30%;
+    text-align: center;
+}
+header .title h1{
+    margin-top: 20px;
+    font-weight: 800;
+    line-height: 64px;
+    font-size: 48px;
+}
+header .title button{
+    margin-top: 50px;
+    padding: 15px 35px;
+    background: #4985FF;
+    color: white;
+    border: transparent;
+    border-radius: 40px;
+    transition: .3s linear;
+}
+header .title button:hover{
+    background: white;
+    color: black;
+    cursor: pointer;
+}
+
+
+section .bloc_1{
+    padding: 13% 0 10%;
+}
+section .bloc_1 .topTitle h2{
+    font-size: 36px;
+    line-height: 52px;
+    color: #323232;
+    font-weight: 700;
+}
+section .bloc_1 .topTitle p{
+    padding: 50px 0 70px;
+    color: #999999;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 400;
+    width: 720px;
+    margin: auto;
+}
+
+section .bloc_1 .box{
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-top: 70px;
+}
+
+
+section .bloc_1 .box .imgRight{
+    padding: 10px;
+    border: solid 1px #E0E0E0;
+    border-radius: 50%;
+    margin-right: 20px;
+    position: relative;
+    top: -2rem;
+    left: 0;
+}
+section .bloc_1 .box .imgRight .circle{
+    padding: 25px;
+    border: solid 1px #4985FF;
+    border-radius: 50%;
+}
+
+section .bloc_1 .box .textLeft h3{
+    font-weight: 600;
+    font-size: 18px;
+}
+section .bloc_1 .box .textLeft p{
+    color: #999999;
+    margin-top: 12px;
+    line-height: 22px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+section .bloc_1 .bt{
+    margin-top: 55px;
+}
+section .bloc_1 .bt button{
+    width: 200px;
+    padding: 13px 36px;
+    background: #4985FF;
+    color: white;
+    border-radius: 40px;
+    border: solid 1px transparent;
+    transition: .3s linear;
+}
+section .bloc_1 .bt button:hover{
+    background: white;
+    color: black;
+    cursor: pointer;
+    border: solid 1px #999999;
+    box-shadow: #C4C4C4 0 0 10px;
+}
+
+
+section.two{
+    background: #F6F6F8;
+}
+section.two h2{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 53px;
+}
+section.two a{
+    text-decoration: none;
+    color: #999999;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+}
+section.two a:hover{
+    text-decoration: underline;
+    color: #4985FF;
+}
+
+section.three{
+    position: relative;
+}
+section.three .bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    height: 55%;
+    width: 100vw;
+    background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%);
+}
+section.three .container{
+    z-index: 1;
+    position: relative;
+}
+section.three h2{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 75px;
+}
+section.three .justify-content-between{
+    padding-top: 6rem;
+}
+section.three .justify-content-between button{
+    padding: 15px 70px;
+    color: white;
+    background: #4985FF;
+    border: solid 1px transparent;
+    border-radius: 40px;
+    transition: .3s linear;
+}
+section.three .justify-content-between button:hover{
+    background: white;
+    color: black;
+    cursor: pointer;
+    border: solid 1px #999999;
+    box-shadow: #C4C4C4 0 0 10px;
+}
+
+section.three .row{
+    justify-content: space-between;
+}
+section.three .carD{
+    padding: 70px 0 85px;
+}
+section.three .lineGreen{
+    padding-bottom: 85px;
+    border-top: 1px solid #E0E0E0;
+}
+
+
+section.three .row .col-lg-4 .carD img{
+    width: 100%;
+}
+section.three .row .col-lg-4 .carD .text h4{
+    font-weight: 600;
+    font-size: 18px;
+    padding: 30px 0;
+}
+section.three .row .col-lg-4 .carD .text h4 span{
+    color: #4985FF;
+}
+section.three .row .col-lg-4 .carD .text p{
+    line-height: 25px;
+    color: #999999;
+    padding-bottom: 15px;
+}
+
+section.four{
+    background: #F6F6F8;
+}
+section.four .title{
+    padding-top: 100px;
+    text-align: center;
+}
+section.four .title h2{
+    font-weight: 700;
+    font-size: 36px;
+    padding-bottom: 50px;
+}
+section.four .title p{
+    width: 70%;
+    margin: 0 auto;
+    color: #999999;
+}
+section.four .row{
+    padding: 70px 0 50px;
+}
+section.four .row img{
+    transition: .2s ease-in-out;
+}
+section.four .row img:hover{
+    transform: scale(1.1) translateY(-10px);
+}
+section.four .bt{
+    text-align: center;
+}
+section.four .bt button{
+    padding: 15px 70px;
+    color: white;
+    background: #4985FF;
+    border: transparent;
+    border-radius: 40px;
+    margin-bottom: 130px;
+    transition: .2s linear;
+}
+section.four .bt button:hover{
+    box-shadow: 0 0 10px 0 #999999;
+    transform: translateY(-5px);
+}
+
+
+section.five .box{
+    background: url("img/five/Rectangle (1).png") no-repeat;
+}
+section.five .container{
+    text-align: center;
+    color: white;
+}
+section.five .container img{
+    width: 80%;
+}
+section.five .container h2{
+    padding: 70px 0 0;
+    font-weight: 700;
+    font-size: 36px;
+}
+section.five .container p{
+    padding: 30px 0 40px;
+}
+section.five .container .image-play{
+    position: relative;
+}
+section.five .container .play{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px white;
+    border-radius: 55px;
+    position: absolute;
+    top: 38%;
+    left: 38%;
+    padding: 20px 40px;
+}
+section.five .container .play button img{
+    width: 60px;
+    height: 60px;
+    transition: .2s linear;
+}
+section.five .container .play:hover button img{
+    transform: scale(1.1);
+}
+section.five .container .play button{
+    background: transparent;
+    border: transparent;
+    margin-right: 20px;
+}
+section.five .container .play .text p{
+    padding: 0;
+    margin: 0;
+}
+section.five .container hr{
+    color: #999999;
+    margin: 85px 0;
+}
+
+
+section.subcribe .container{
+    text-align: center;
+}
+section.subcribe .container .input-group{
+    justify-content: center;
+}
+section.subcribe .container h3{
+    font-weight: 600;
+    font-size: 18px;
+}
+section.subcribe .container p{
+    color: #999999;
+    margin: 15px 0 25px;
+}
+section.subcribe .container p:last-child{
+    font-size: 13px;
+    margin: 30px 0 85px;
+}
+section.subcribe .container .input-group input{
+    padding: 10px 33px;
+    border: solid 1px #999999;
+    border-radius: 30px 0 0 30px;
+    outline: transparent;
+    font-size: 13px;
+    width: 290px;
+}
+section.subcribe .container .input-group button{
+    padding: 6px 33px;
+    border: solid 1px #999999;
+    border-radius: 0 30px 30px 0;
+    background: #4985FF;
+    color: white;
+    transition: .3s linear;
+}
+section.subcribe .container .input-group button:hover{
+    background: white;
+    color: black;
+    cursor: pointer;
+    border: solid 1px #999999;
+    box-shadow: #C4C4C4 0 0 10px;
+}
+
+
+
+footer{
+    background: #F6F6F8;
+    padding-top: 70px;
+}
+footer .container h3{
+    font-weight: 600;
+    font-size: 18px;
+}
+footer .container li{
+    font-size: 14px;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+footer .container ul.img-list{
+    list-style: none;
+}
+footer .container .img-list li img{
+    margin-right: 15px;
+}
+footer .container ul{
+    list-style: url("img/footer/right-arrow.png") inside;
+    padding: 0;
+    margin: 30px 0;
+}
+footer .container a{
+    color: #999999;
+    text-decoration: none;
+}
+footer .container a:hover{
+    color: #4985FF;
+    text-decoration: underline;
+}
+footer .container hr{
+    color: #999999;
+    margin: 30px 0;
+}
+footer p{
+    color: #999999;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: center;
+    padding: 30px 0;
+}

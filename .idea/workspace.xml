@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93a4056b-4f3f-4006-851d-c91057d7ed8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sOenGf4B5GnAmWJ1z1kzHjJXcc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/header" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\bootstrap\img\footer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\bootstrap\img\header" />
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\bootstrap\img\five" />
+      <recent name="C:\Users\User\Desktop\IT-RUN\Практика\bootstrap\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93a4056b-4f3f-4006-851d-c91057d7ed8a" name="Default Changelist" comment="" />
+      <created>1620748228180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620748228180</updated>
+      <workItem from="1620748229671" duration="26375000" />
+      <workItem from="1620915079255" duration="14138000" />
+      <workItem from="1621087941319" duration="17685000" />
+      <workItem from="1621250009494" duration="20167000" />
+      <workItem from="1621346984903" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621247356995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1621247356995" />
+    <state x="548" y="159" key="FileChooserDialogImpl" timestamp="1621347597307">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1621347597307" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1620812239723">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1620812239723" />
+    <state x="431" y="155" width="672" height="676" key="search.everywhere.popup" timestamp="1621331693514">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="676" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1621331693514" />
+  </component>
+</project>
